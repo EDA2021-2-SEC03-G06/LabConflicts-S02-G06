@@ -43,6 +43,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     # TODO: Modificación de Est-1 en el Lab 2
+    print("Cargar BookTags!!!...")
     print("0- Salir")
 
 
@@ -80,7 +81,7 @@ while True:
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         # TODO: Modificación de Est-1 en el Lab 2
-        print("Cargar BookTags!!!...")
+        
 
         # TODO: Modificación de Est-2 en el Lab 2
 
