@@ -27,5 +27,12 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-Estudiante 1: Sergio Montoya Ramírez
-Estudiante 2: Sergio David Lopez Becerra
+Est-1
+Nombre: Sergio Montoya Ramirez
+Correo: s.montoyar2@uniandes.edu.co
+Código: 202112171
+
+Est-2
+Nombre: Sergio David López Becerra
+Correo: sd.lopezb1@uniandes.edu.co
+Código: 202110260
