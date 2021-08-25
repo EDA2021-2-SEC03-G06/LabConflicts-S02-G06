@@ -43,15 +43,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     # TODO: Modificación de Est-1 en el Lab 2
-<<<<<<< HEAD
     print("3- Cargar Book-Tags!")
-=======
-<<<<<<< HEAD
-    print("3- Cargar Book-Tags!")
-=======
-    print("Cargar BookTags!!!...")
->>>>>>> b4d7d0f1a5540098cb88e626d2fdd2f501cadec2
->>>>>>> c36800d4eda437c02c1717a29026f814cb4adc2a
     print("0- Salir")
 
 
@@ -89,15 +81,8 @@ while True:
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         # TODO: Modificación de Est-1 en el Lab 2
-<<<<<<< HEAD
+
         print("Primer Libro Cargado: ", str(lt.firstElement(books)))
-=======
-<<<<<<< HEAD
-        print("Primer Libro Cargado: ", str(lt.firstElement(books)))
-=======
-        
->>>>>>> b4d7d0f1a5540098cb88e626d2fdd2f501cadec2
->>>>>>> c36800d4eda437c02c1717a29026f814cb4adc2a
 
         # TODO: Modificación de Est-2 en el Lab 2
         print('Último libro cargado: ' + str(lt.lastElement(books)))
